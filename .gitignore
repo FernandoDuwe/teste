@@ -1,0 +1,4 @@
+ArquivoIgnorar.txt
+build/
+*.temp
+*.log
